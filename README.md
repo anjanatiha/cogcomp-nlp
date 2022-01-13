@@ -43,7 +43,7 @@ Each library contains detailed instructions on how to use it. In addition the ja
 | [external-annotators](external/README.md) | Collection useful external annotators.  |
 
 
- - **For additional queries:** Please follow [FAQs](faq.md).
+**For additional queries:** Please follow [FAQs](faq.md).
 
 ## Using each library programmatically 
 
