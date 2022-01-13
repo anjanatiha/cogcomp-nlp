@@ -5,8 +5,8 @@
 This project collects a number of core libraries for Natural Language Processing (NLP) developed 
 by [Cognitive Computation Group](https://cogcomp.org).  
 
-## How to use it? 
-Depending on the need, please follow one of the following modules: 
+## Usage
+Depending on the need, please follow option below: 
  - **To annotate raw text** (i.e. no need to open the annotator boxes to retrain them) Follow [pipeline](pipeline/). 
  - **To train and test an NLP annotator** (i.e. you want to open an annotator box), see the list of components below and choose the desired one. We recommend using JDK8, as no other versions are officially supported and tested.
  - **To read a corpus** Follow [the corpus-readers](corpusreaders) module. 
